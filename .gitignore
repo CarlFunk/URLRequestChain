@@ -1,0 +1,14 @@
+## System
+.DS_Store
+
+## Build generated
+build/
+DerivedData/
+
+## User settings
+xcuserdata/
+
+## Swiftpm
+.swiftpm
+.build/
+Package.resolved
